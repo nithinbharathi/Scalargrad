@@ -1,6 +1,6 @@
 # Scalar Grad
 
-Inspired by Andrej Karpathy's [micrograd] (#https://www.youtube.com/watch?v=VMj-3S1tku0)
+Inspired by Andrej Karpathy's [micrograd](https://www.youtube.com/watch?v=VMj-3S1tku0)
 
 Scalar grad is a scalar-valued automatic differentiation engine that supports operations like addition, subtraction, multiplication, division, and exponentiation.
 
