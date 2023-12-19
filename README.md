@@ -14,4 +14,4 @@ c = a+b
 draw(c)
 ```
 
-invoking draw(c) prints out the graph (similar to the one in the notebook) that is maintained internally.
+invoking draw(c) prints out the graph (similar to the one in the notebook autograd.ipynb) that is maintained internally.
